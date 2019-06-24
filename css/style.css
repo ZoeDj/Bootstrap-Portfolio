@@ -37,6 +37,7 @@ body {
 h2{
   font-family: 'Georgia', Times, Times New Roman, serif;
   color:  #4aaaa5;
+  padding-top: 15px;
 }
 
 /* sticky  footer*/
@@ -71,4 +72,9 @@ body {
 .card {
   margin: 2.5%;
   border: none;
+}
+
+/* contact */
+form {
+  padding: 20px;
 }
