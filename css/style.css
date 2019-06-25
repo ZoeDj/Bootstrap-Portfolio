@@ -73,6 +73,9 @@ body {
   margin: 2.5%;
   border: none;
 }
+a:hover {
+  text-decoration: none;
+}
 
 /* contact */
 form {
